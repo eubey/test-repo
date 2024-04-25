@@ -1,3 +1,4 @@
 # test-repo
 asdf
-branch visibility
+branch visibility /n
+newline
